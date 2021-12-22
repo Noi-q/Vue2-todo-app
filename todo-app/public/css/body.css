@@ -1,0 +1,17 @@
+body{
+    /*background:url(https://github.com/Ecioboy/Ecioboy/blob/main/images/Map_4k.jpg);*/
+    /*background-image:url(https://github.com/Ecioboy/Ecioboy/blob/main/images/Map_4k.jpg);*/
+    /*background-image:url(../images/vcal.jpg);
+    position:absolute;
+    top:0;
+    left:0;
+    height:100%;
+    width:100%;
+    background-position: center 0;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-size: cover;
+    -webkit-background-size: cover;/* 兼容Webkit内核浏览器如Chrome和Safari */
+    -o-background-size: cover;/* 兼容Opera */
+    zoom: 1;    
+}
